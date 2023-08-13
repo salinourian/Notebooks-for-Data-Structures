@@ -1,6 +1,6 @@
-# DS_Jupyter
+# Notebooks-for-Data-Structures
 
-A course for B.Sc. students, Computer Engineering Department, Sharif University of Technology.
+A course for B.Sc. students, Computer Engineering Department, Jahad Daneshgahi.
 
 The course is instructed in Persian (Farsi) language.
 
